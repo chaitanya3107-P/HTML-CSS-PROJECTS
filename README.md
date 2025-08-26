@@ -4,8 +4,9 @@ This repository contains multiple HTML & CSS projects built for practice:
 
 ## To view live preview
 
-Click Here - <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/index.html"></a></li>
+Click Here -
 
+<li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/index.html"></a></li>
 <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/A.P.J%20Abdul%20Kalam%20Blog/">A.P.J Abdul Kalam Blog</a></li>
     <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/Job%20application%20(web)/">Job Application Website</a></li>
     <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/Music%20Website/">Music Website</a></li>
