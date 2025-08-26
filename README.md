@@ -10,7 +10,7 @@ This repository contains multiple HTML & CSS projects built for practice:
     <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/Music%20Website/">Music Website</a></li>
     <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/Restaurant%20Website/">Restaurant Website</a></li>
     <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/Youtube%20Interface/">YouTube Interface</a></li>
-    <li><a href="amazon-clone/">Amazon Clone</a></li>
+    <li><a href="https://chaitanya3107-p.github.io/HTML-CSS-Projects/amazon-clone/">Amazon Clone</a></li>
 
 ## How to View
 
